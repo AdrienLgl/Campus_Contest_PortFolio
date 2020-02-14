@@ -39,7 +39,7 @@
 
             <div id="menu">
                 <ul>
-                    <li><a href="../../Accueil/Accueil.php" style= "font-family: 'Baloo', cursive;">Accueil</a></li>
+                    <li><a href="../../index.php" style= "font-family: 'Baloo', cursive;">Accueil</a></li>
                     <li><a href="#" style= "font-family: 'Baloo', cursive;">About Me</a>
                         <ul>
                             <li><a href="#" style= "font-family: 'Baloo', cursive;">Mes Compétences</a></li>
